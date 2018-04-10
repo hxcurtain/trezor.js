@@ -166,6 +166,4 @@ process.on('exit', function() {
     list.onbeforeunload();
 });
 
-/*(function wait () {
-   if (true) setTimeout(wait, 1000);
-})();*/
+
